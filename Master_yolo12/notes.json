@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "bluecup"
+    },
+    {
+      "id": 1,
+      "name": "greencup"
+    },
+    {
+      "id": 2,
+      "name": "orangcup"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
